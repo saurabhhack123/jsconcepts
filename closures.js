@@ -1,3 +1,6 @@
+//  closure should be use when static things are concern
+//  to achieve the private variable concept for a function object
+
 
 var sum = (function(){
 	
